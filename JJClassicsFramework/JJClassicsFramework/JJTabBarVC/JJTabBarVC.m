@@ -31,7 +31,7 @@
 #pragma mark - 设置界面
 -(void)setupUI{
     //这里使用json的方式,持久化所有的控制器,方便以后的复用
-    NSURL* jsonURL = [[NSBundle mainBundle] URLForResource:@"Controller.json" withExtension:nil];
+    NSURL* jsonURL = [[NSBundle mainBundle] URLForResource:@"Controllers.json" withExtension:nil];
     NSData* data = [NSData dataWithContentsOfURL:jsonURL];
     //获取到json中的数组
     NSArray* jsonArray = [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];

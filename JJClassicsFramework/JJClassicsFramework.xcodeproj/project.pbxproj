@@ -12,11 +12,11 @@
 		A44AA0581EC2C05700A4D566 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A44AA0571EC2C05700A4D566 /* Assets.xcassets */; };
 		A44AA05B1EC2C05700A4D566 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A44AA0591EC2C05700A4D566 /* LaunchScreen.storyboard */; };
 		A44AA0671EC2C12C00A4D566 /* JJTabBarVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA0661EC2C12C00A4D566 /* JJTabBarVC.m */; };
-		A44AA0751EC2C14000A4D566 /* Controller.json in Resources */ = {isa = PBXBuildFile; fileRef = A44AA0681EC2C14000A4D566 /* Controller.json */; };
-		A44AA0761EC2C14000A4D566 /* JJDiscoverVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA06B1EC2C14000A4D566 /* JJDiscoverVC.m */; };
-		A44AA0771EC2C14000A4D566 /* JJHomeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA06E1EC2C14000A4D566 /* JJHomeVC.m */; };
-		A44AA0781EC2C14000A4D566 /* JJMessageVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA0711EC2C14000A4D566 /* JJMessageVC.m */; };
-		A44AA0791EC2C14000A4D566 /* JJProfileVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA0741EC2C14000A4D566 /* JJProfileVC.m */; };
+		A44AA0931EC2C82C00A4D566 /* JJDiscoverVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA07E1EC2C82C00A4D566 /* JJDiscoverVC.m */; };
+		A44AA0941EC2C82C00A4D566 /* JJHomeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA0841EC2C82C00A4D566 /* JJHomeVC.m */; };
+		A44AA0951EC2C82C00A4D566 /* JJMessageVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA08A1EC2C82C00A4D566 /* JJMessageVC.m */; };
+		A44AA0961EC2C82C00A4D566 /* JJProfileVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A44AA0901EC2C82C00A4D566 /* JJProfileVC.m */; };
+		A44AA0981EC2C8F900A4D566 /* Controllers.json in Resources */ = {isa = PBXBuildFile; fileRef = A44AA0971EC2C8F900A4D566 /* Controllers.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,15 +29,15 @@
 		A44AA05C1EC2C05700A4D566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A44AA0651EC2C12C00A4D566 /* JJTabBarVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJTabBarVC.h; sourceTree = "<group>"; };
 		A44AA0661EC2C12C00A4D566 /* JJTabBarVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJTabBarVC.m; sourceTree = "<group>"; };
-		A44AA0681EC2C14000A4D566 /* Controller.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Controller.json; sourceTree = "<group>"; };
-		A44AA06A1EC2C14000A4D566 /* JJDiscoverVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJDiscoverVC.h; sourceTree = "<group>"; };
-		A44AA06B1EC2C14000A4D566 /* JJDiscoverVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJDiscoverVC.m; sourceTree = "<group>"; };
-		A44AA06D1EC2C14000A4D566 /* JJHomeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJHomeVC.h; sourceTree = "<group>"; };
-		A44AA06E1EC2C14000A4D566 /* JJHomeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJHomeVC.m; sourceTree = "<group>"; };
-		A44AA0701EC2C14000A4D566 /* JJMessageVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJMessageVC.h; sourceTree = "<group>"; };
-		A44AA0711EC2C14000A4D566 /* JJMessageVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJMessageVC.m; sourceTree = "<group>"; };
-		A44AA0731EC2C14000A4D566 /* JJProfileVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJProfileVC.h; sourceTree = "<group>"; };
-		A44AA0741EC2C14000A4D566 /* JJProfileVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJProfileVC.m; sourceTree = "<group>"; };
+		A44AA07D1EC2C82C00A4D566 /* JJDiscoverVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJDiscoverVC.h; sourceTree = "<group>"; };
+		A44AA07E1EC2C82C00A4D566 /* JJDiscoverVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJDiscoverVC.m; sourceTree = "<group>"; };
+		A44AA0831EC2C82C00A4D566 /* JJHomeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJHomeVC.h; sourceTree = "<group>"; };
+		A44AA0841EC2C82C00A4D566 /* JJHomeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJHomeVC.m; sourceTree = "<group>"; };
+		A44AA0891EC2C82C00A4D566 /* JJMessageVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJMessageVC.h; sourceTree = "<group>"; };
+		A44AA08A1EC2C82C00A4D566 /* JJMessageVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJMessageVC.m; sourceTree = "<group>"; };
+		A44AA08F1EC2C82C00A4D566 /* JJProfileVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJProfileVC.h; sourceTree = "<group>"; };
+		A44AA0901EC2C82C00A4D566 /* JJProfileVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJProfileVC.m; sourceTree = "<group>"; };
+		A44AA0971EC2C8F900A4D566 /* Controllers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Controllers.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,8 +70,8 @@
 		A44AA04A1EC2C05700A4D566 /* JJClassicsFramework */ = {
 			isa = PBXGroup;
 			children = (
+				A44AA07A1EC2C82C00A4D566 /* JJViewControllers */,
 				A44AA0631EC2C0C200A4D566 /* JJTabBarVC */,
-				A44AA0641EC2C0C200A4D566 /* JJViewControllers */,
 				A44AA04E1EC2C05700A4D566 /* AppDelegate.h */,
 				A44AA04F1EC2C05700A4D566 /* AppDelegate.m */,
 				A44AA0571EC2C05700A4D566 /* Assets.xcassets */,
@@ -99,52 +99,148 @@
 			path = JJTabBarVC;
 			sourceTree = "<group>";
 		};
-		A44AA0641EC2C0C200A4D566 /* JJViewControllers */ = {
+		A44AA07A1EC2C82C00A4D566 /* JJViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				A44AA0681EC2C14000A4D566 /* Controller.json */,
-				A44AA0691EC2C14000A4D566 /* Discover */,
-				A44AA06C1EC2C14000A4D566 /* Home */,
-				A44AA06F1EC2C14000A4D566 /* Message */,
-				A44AA0721EC2C14000A4D566 /* Profile */,
+				A44AA0971EC2C8F900A4D566 /* Controllers.json */,
+				A44AA07B1EC2C82C00A4D566 /* Discover */,
+				A44AA0811EC2C82C00A4D566 /* Home */,
+				A44AA0871EC2C82C00A4D566 /* Message */,
+				A44AA08D1EC2C82C00A4D566 /* Profile */,
 			);
 			path = JJViewControllers;
 			sourceTree = "<group>";
 		};
-		A44AA0691EC2C14000A4D566 /* Discover */ = {
+		A44AA07B1EC2C82C00A4D566 /* Discover */ = {
 			isa = PBXGroup;
 			children = (
-				A44AA06A1EC2C14000A4D566 /* JJDiscoverVC.h */,
-				A44AA06B1EC2C14000A4D566 /* JJDiscoverVC.m */,
+				A44AA07C1EC2C82C00A4D566 /* Controller */,
+				A44AA07F1EC2C82C00A4D566 /* Model */,
+				A44AA0801EC2C82C00A4D566 /* View */,
 			);
 			path = Discover;
 			sourceTree = "<group>";
 		};
-		A44AA06C1EC2C14000A4D566 /* Home */ = {
+		A44AA07C1EC2C82C00A4D566 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				A44AA06D1EC2C14000A4D566 /* JJHomeVC.h */,
-				A44AA06E1EC2C14000A4D566 /* JJHomeVC.m */,
+				A44AA07D1EC2C82C00A4D566 /* JJDiscoverVC.h */,
+				A44AA07E1EC2C82C00A4D566 /* JJDiscoverVC.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		A44AA07F1EC2C82C00A4D566 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A44AA0801EC2C82C00A4D566 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A44AA0811EC2C82C00A4D566 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				A44AA0821EC2C82C00A4D566 /* Controller */,
+				A44AA0851EC2C82C00A4D566 /* Model */,
+				A44AA0861EC2C82C00A4D566 /* View */,
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		A44AA06F1EC2C14000A4D566 /* Message */ = {
+		A44AA0821EC2C82C00A4D566 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				A44AA0701EC2C14000A4D566 /* JJMessageVC.h */,
-				A44AA0711EC2C14000A4D566 /* JJMessageVC.m */,
+				A44AA0831EC2C82C00A4D566 /* JJHomeVC.h */,
+				A44AA0841EC2C82C00A4D566 /* JJHomeVC.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		A44AA0851EC2C82C00A4D566 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A44AA0861EC2C82C00A4D566 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A44AA0871EC2C82C00A4D566 /* Message */ = {
+			isa = PBXGroup;
+			children = (
+				A44AA0881EC2C82C00A4D566 /* Controller */,
+				A44AA08B1EC2C82C00A4D566 /* Model */,
+				A44AA08C1EC2C82C00A4D566 /* View */,
 			);
 			path = Message;
 			sourceTree = "<group>";
 		};
-		A44AA0721EC2C14000A4D566 /* Profile */ = {
+		A44AA0881EC2C82C00A4D566 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				A44AA0731EC2C14000A4D566 /* JJProfileVC.h */,
-				A44AA0741EC2C14000A4D566 /* JJProfileVC.m */,
+				A44AA0891EC2C82C00A4D566 /* JJMessageVC.h */,
+				A44AA08A1EC2C82C00A4D566 /* JJMessageVC.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		A44AA08B1EC2C82C00A4D566 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A44AA08C1EC2C82C00A4D566 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A44AA08D1EC2C82C00A4D566 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				A44AA08E1EC2C82C00A4D566 /* Controller */,
+				A44AA0911EC2C82C00A4D566 /* Model */,
+				A44AA0921EC2C82C00A4D566 /* View */,
 			);
 			path = Profile;
+			sourceTree = "<group>";
+		};
+		A44AA08E1EC2C82C00A4D566 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				A44AA08F1EC2C82C00A4D566 /* JJProfileVC.h */,
+				A44AA0901EC2C82C00A4D566 /* JJProfileVC.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		A44AA0911EC2C82C00A4D566 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A44AA0921EC2C82C00A4D566 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -206,7 +302,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A44AA05B1EC2C05700A4D566 /* LaunchScreen.storyboard in Resources */,
-				A44AA0751EC2C14000A4D566 /* Controller.json in Resources */,
+				A44AA0981EC2C8F900A4D566 /* Controllers.json in Resources */,
 				A44AA0581EC2C05700A4D566 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -218,13 +314,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A44AA0791EC2C14000A4D566 /* JJProfileVC.m in Sources */,
-				A44AA0781EC2C14000A4D566 /* JJMessageVC.m in Sources */,
+				A44AA0961EC2C82C00A4D566 /* JJProfileVC.m in Sources */,
+				A44AA0951EC2C82C00A4D566 /* JJMessageVC.m in Sources */,
 				A44AA0501EC2C05700A4D566 /* AppDelegate.m in Sources */,
-				A44AA0761EC2C14000A4D566 /* JJDiscoverVC.m in Sources */,
+				A44AA0931EC2C82C00A4D566 /* JJDiscoverVC.m in Sources */,
 				A44AA0671EC2C12C00A4D566 /* JJTabBarVC.m in Sources */,
 				A44AA04D1EC2C05700A4D566 /* main.m in Sources */,
-				A44AA0771EC2C14000A4D566 /* JJHomeVC.m in Sources */,
+				A44AA0941EC2C82C00A4D566 /* JJHomeVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -375,6 +471,7 @@
 				A44AA0611EC2C05700A4D566 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
